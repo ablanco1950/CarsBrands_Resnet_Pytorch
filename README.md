@@ -79,8 +79,11 @@ Downloading: "https://download.pytorch.org/models/resnet50-0676ba61.pth" to C:\U
  98%|███████████████████████████████████████████████████████████████████████▊ | 96.2M/97.8M [00:04<00:00, 11.2MB/s]
 100%|████████████████████████████████████████████████████████████████████████▋| 97.4M/97.8M [00:05<00:00, 9.59MB/s]
 100%|█████████████████████████████████████████████████████████████████████████| 97.8M/97.8M [00:05<00:00, 19.8MB/s]
+
 No. epochs: 2,             Training Loss: 0.063             Valid Loss: 2.896             Valid Accuracy: 0.238
+
 No. epochs: 3,             Training Loss: 0.078             Valid Loss: 1.894             Valid Accuracy: 0.488
+
 No. epochs: 4,             Training Loss: 0.077             Valid Loss: 1.634             Valid Accuracy: 0.558
 No. epochs: 5,             Training Loss: 0.065             Valid Loss: 1.317             Valid Accuracy: 0.625
 No. epochs: 6,             Training Loss: 0.053             Valid Loss: 1.237             Valid Accuracy: 0.662
@@ -98,7 +101,9 @@ No. epochs: 17,             Training Loss: 0.047             Valid Loss: 0.645  
 No. epochs: 18,             Training Loss: 0.047             Valid Loss: 0.644             Valid Accuracy: 0.82
 No. epochs: 19,             Training Loss: 0.053             Valid Loss: 0.63             Valid Accuracy: 0.826
 No. epochs: 20,             Training Loss: 0.056             Valid Loss: 0.64             Valid Accuracy: 0.824
+
 Test accuracy of model: 80.4%
+
 >>> 
 
 Test with unseen data
