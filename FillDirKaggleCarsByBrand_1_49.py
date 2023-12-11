@@ -50,7 +50,7 @@ for linea in f:
     if len(StrBrand) < 2 : StrBrand="0"+StrBrand
     
     img=cv2.imread('C:\\archiveKaggle\\cars_train\\cars_train' + '\\'+ NameImg) 
-    img = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+    #img = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
     img = cv2.resize(img, (224,224), interpolation = cv2.INTER_AREA)
    
     if Conta > 8000:
