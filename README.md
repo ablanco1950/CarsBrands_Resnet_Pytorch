@@ -127,304 +127,301 @@ Test with unseen data
 GuessCarsBrands_Resnet_Pytorch.py
 
 
-ERROR 07999.jpg is assigned brand 13Eagle
-  True brand is 10Chevrolet
+HIT 08000.jpg is assigned brand 35Mercedes-Benz
 
-HIT 08000.jpg is assigned brand 35Mitsubishi
+HIT 08001.jpg is assigned brand 27Jeep
 
-HIT 08001.jpg is assigned brand 27Lamborghini
-
-ERROR 08002.jpg is assigned brand 37Plymouth
+ERROR 08002.jpg is assigned brand 37Nissan
   True brand is 35Mercedes-Benz
 
-HIT 08003.jpg is assigned brand 23Infiniti
+HIT 08003.jpg is assigned brand 23Hyundai
 
-HIT 08004.jpg is assigned brand 5Bentley
+HIT 08004.jpg is assigned brand 5BMW
 
-HIT 08005.jpg is assigned brand 2Astom Martin
+HIT 08005.jpg is assigned brand 2Acura
 
-HIT 08006.jpg is assigned brand 23Infiniti
+HIT 08006.jpg is assigned brand 23Hyundai
 
-ERROR 08007.jpg is assigned brand 3Audi
+ERROR 08007.jpg is assigned brand 3Astom Martin
   True brand is 5BMW
 
-HIT 08008.jpg is assigned brand 10Chrysler
+HIT 08008.jpg is assigned brand 10Chevrolet
 
-HIT 08009.jpg is assigned brand 35Mitsubishi
+HIT 08009.jpg is assigned brand 35Mercedes-Benz
 
-HIT 08010.jpg is assigned brand 4BMW
+HIT 08010.jpg is assigned brand 4Audi
 
-HIT 08011.jpg is assigned brand 1Acura
+HIT 08011.jpg is assigned brand 1AM
 
-HIT 08012.jpg is assigned brand 28Land Rover
+HIT 08012.jpg is assigned brand 28Lamborghini
 
-ERROR 08013.jpg is assigned brand 10Chrysler
+ERROR 08013.jpg is assigned brand 10Chevrolet
   True brand is 19GMC
 
-HIT 08014.jpg is assigned brand 4BMW
+HIT 08014.jpg is assigned brand 4Audi
 
-ERROR 08015.jpg is assigned brand 4BMW
+ERROR 08015.jpg is assigned brand 4Audi
   True brand is 6Bentley
 
-HIT 08016.jpg is assigned brand 2Astom Martin
+HIT 08016.jpg is assigned brand 2Acura
 
-HIT 08017.jpg is assigned brand 10Chrysler
+HIT 08017.jpg is assigned brand 10Chevrolet
 
-ERROR 08018.jpg is assigned brand 10Chrysler
+ERROR 08018.jpg is assigned brand 10Chevrolet
   True brand is 2Acura
 
-HIT 08019.jpg is assigned brand 23Infiniti
+HIT 08019.jpg is assigned brand 23Hyundai
 
-HIT 08020.jpg is assigned brand 13Eagle
+HIT 08020.jpg is assigned brand 13Dodge
 
-HIT 08021.jpg is assigned brand 5Bentley
+HIT 08021.jpg is assigned brand 5BMW
 
-HIT 08022.jpg is assigned brand 28Land Rover
+HIT 08022.jpg is assigned brand 28Lamborghini
 
-HIT 08023.jpg is assigned brand 24Isuzu
+HIT 08023.jpg is assigned brand 24Infiniti
 
-HIT 08024.jpg is assigned brand 33McLaren
+HIT 08024.jpg is assigned brand 33Mazda
 
-HIT 08025.jpg is assigned brand 19Geo
+HIT 08025.jpg is assigned brand 19GMC
 
-HIT 08026.jpg is assigned brand 4BMW
+HIT 08026.jpg is assigned brand 4Audi
 
-HIT 08027.jpg is assigned brand 4BMW
+HIT 08027.jpg is assigned brand 4Audi
 
-HIT 08028.jpg is assigned brand 4BMW
+HIT 08028.jpg is assigned brand 4Audi
 
-HIT 08029.jpg is assigned brand 18GMC
+HIT 08029.jpg is assigned brand 18Ford
 
-ERROR 08030.jpg is assigned brand 44Tesla
+ERROR 08030.jpg is assigned brand 44Suzuki
   True brand is 15FIAT
 
-HIT 08031.jpg is assigned brand 1Acura
+HIT 08031.jpg is assigned brand 1AM
 
-HIT 08032.jpg is assigned brand 5Bentley
+HIT 08032.jpg is assigned brand 5BMW
 
-HIT 08033.jpg is assigned brand 5Bentley
+HIT 08033.jpg is assigned brand 5BMW
 
-HIT 08034.jpg is assigned brand 23Infiniti
+HIT 08034.jpg is assigned brand 23Hyundai
 
-HIT 08035.jpg is assigned brand 10Chrysler
+HIT 08035.jpg is assigned brand 10Chevrolet
 
-ERROR 08036.jpg is assigned brand 23Infiniti
+ERROR 08036.jpg is assigned brand 23Hyundai
   True brand is 46Toyota
 
-ERROR 08037.jpg is assigned brand 19Geo
+ERROR 08037.jpg is assigned brand 19GMC
   True brand is 10Chevrolet
 
-HIT 08038.jpg is assigned brand 11Daewo
+HIT 08038.jpg is assigned brand 11Chrysler
 
-HIT 08039.jpg is assigned brand 27Lamborghini
+HIT 08039.jpg is assigned brand 27Jeep
 
-ERROR 08040.jpg is assigned brand 7Buick
+ERROR 08040.jpg is assigned brand 7Bugatti
   True brand is 10Chevrolet
 
-HIT 08041.jpg is assigned brand 35Mitsubishi
+HIT 08041.jpg is assigned brand 35Mercedes-Benz
 
-HIT 08042.jpg is assigned brand 8Cadillac
+HIT 08042.jpg is assigned brand 8Buick
 
-HIT 08043.jpg is assigned brand 4BMW
+HIT 08043.jpg is assigned brand 4Audi
 
-HIT 08044.jpg is assigned brand 3Audi
+HIT 08044.jpg is assigned brand 3Astom Martin
 
-HIT 08045.jpg is assigned brand 23Infiniti
+HIT 08045.jpg is assigned brand 23Hyundai
 
-HIT 08046.jpg is assigned brand 46Volkswagen
+HIT 08046.jpg is assigned brand 46Toyota
 
-HIT 08047.jpg is assigned brand 11Daewo
+HIT 08047.jpg is assigned brand 11Chrysler
 
-ERROR 08048.jpg is assigned brand 26Jeep
+ERROR 08048.jpg is assigned brand 26Jaguar
   True brand is 5BMW
 
-HIT 08049.jpg is assigned brand 10Chrysler
+HIT 08049.jpg is assigned brand 10Chevrolet
 
-ERROR 08050.jpg is assigned brand 46Volkswagen
+ERROR 08050.jpg is assigned brand 46Toyota
   True brand is 13Dodge
 
-HIT 08051.jpg is assigned brand 3Audi
+HIT 08051.jpg is assigned brand 3Astom Martin
 
-HIT 08052.jpg is assigned brand 29Lincoln Town
+HIT 08052.jpg is assigned brand 29Land Rover
 
-HIT 08053.jpg is assigned brand 4BMW
+HIT 08053.jpg is assigned brand 4Audi
 
-HIT 08054.jpg is assigned brand 18GMC
+HIT 08054.jpg is assigned brand 18Ford
 
-HIT 08055.jpg is assigned brand 4BMW
+HIT 08055.jpg is assigned brand 4Audi
 
-HIT 08056.jpg is assigned brand 19Geo
+HIT 08056.jpg is assigned brand 19GMC
 
-ERROR 08057.jpg is assigned brand 19Geo
+ERROR 08057.jpg is assigned brand 19GMC
   True brand is 25Isuzu
 
-HIT 08058.jpg is assigned brand 5Bentley
+HIT 08058.jpg is assigned brand 5BMW
 
-HIT 08059.jpg is assigned brand 19Geo
+HIT 08059.jpg is assigned brand 19GMC
 
-ERROR 08060.jpg is assigned brand 11Daewo
+ERROR 08060.jpg is assigned brand 11Chrysler
   True brand is 27Jeep
 
-ERROR 08061.jpg is assigned brand 13Eagle
+ERROR 08061.jpg is assigned brand 13Dodge
   True brand is 35Mercedes-Benz
 
-HIT 08062.jpg is assigned brand 10Chrysler
+HIT 08062.jpg is assigned brand 10Chevrolet
 
-HIT 08063.jpg is assigned brand 19Geo
+HIT 08063.jpg is assigned brand 19GMC
 
-HIT 08064.jpg is assigned brand 23Infiniti
+HIT 08064.jpg is assigned brand 23Hyundai
 
-HIT 08065.jpg is assigned brand 27Lamborghini
+HIT 08065.jpg is assigned brand 27Jeep
 
-ERROR 08066.jpg is assigned brand 23Infiniti
+ERROR 08066.jpg is assigned brand 23Hyundai
   True brand is 18Ford
 
-ERROR 08067.jpg is assigned brand 4BMW
+ERROR 08067.jpg is assigned brand 4Audi
   True brand is 28Lamborghini
 
-HIT 08068.jpg is assigned brand 5Bentley
+HIT 08068.jpg is assigned brand 5BMW
 
-HIT 08069.jpg is assigned brand 29Lincoln Town
+HIT 08069.jpg is assigned brand 29Land Rover
 
-HIT 08070.jpg is assigned brand 10Chrysler
+HIT 08070.jpg is assigned brand 10Chevrolet
 
-HIT 08071.jpg is assigned brand 48smart
+HIT 08071.jpg is assigned brand 48Volvo
 
-HIT 08072.jpg is assigned brand 22Hyundai
+HIT 08072.jpg is assigned brand 22Honda
 
-HIT 08073.jpg is assigned brand 6Bugatti
+HIT 08073.jpg is assigned brand 6Bentley
 
-HIT 08074.jpg is assigned brand 10Chrysler
+HIT 08074.jpg is assigned brand 10Chevrolet
 
-HIT 08075.jpg is assigned brand 10Chrysler
+HIT 08075.jpg is assigned brand 10Chevrolet
 
-ERROR 08076.jpg is assigned brand 2Astom Martin
+ERROR 08076.jpg is assigned brand 2Acura
   True brand is 17FisKer
 
-HIT 08077.jpg is assigned brand 10Chrysler
+HIT 08077.jpg is assigned brand 10Chevrolet
 
-HIT 08078.jpg is assigned brand 44Tesla
+HIT 08078.jpg is assigned brand 44Suzuki
 
-HIT 08079.jpg is assigned brand 18GMC
+HIT 08079.jpg is assigned brand 18Ford
 
-HIT 08080.jpg is assigned brand 10Chrysler
+HIT 08080.jpg is assigned brand 10Chevrolet
 
-HIT 08081.jpg is assigned brand 4BMW
+HIT 08081.jpg is assigned brand 4Audi
 
-HIT 08082.jpg is assigned brand 5Bentley
+HIT 08082.jpg is assigned brand 5BMW
 
-HIT 08083.jpg is assigned brand 35Mitsubishi
+HIT 08083.jpg is assigned brand 35Mercedes-Benz
 
-HIT 08084.jpg is assigned brand 23Infiniti
+HIT 08084.jpg is assigned brand 23Hyundai
 
-HIT 08085.jpg is assigned brand 3Audi
+HIT 08085.jpg is assigned brand 3Astom Martin
 
-ERROR 08086.jpg is assigned brand 5Bentley
+ERROR 08086.jpg is assigned brand 5BMW
   True brand is 4Audi
 
-HIT 08087.jpg is assigned brand 20HUMMER
+HIT 08087.jpg is assigned brand 20Geo
 
-HIT 08088.jpg is assigned brand 47Volvo
+HIT 08088.jpg is assigned brand 47Volkswagen
 
-HIT 08089.jpg is assigned brand 22Hyundai
+HIT 08089.jpg is assigned brand 22Honda
 
-HIT 08090.jpg is assigned brand 13Eagle
+HIT 08090.jpg is assigned brand 13Dodge
 
-HIT 08091.jpg is assigned brand 13Eagle
+HIT 08091.jpg is assigned brand 13Dodge
 
-HIT 08092.jpg is assigned brand 13Eagle
+HIT 08092.jpg is assigned brand 13Dodge
 
-HIT 08093.jpg is assigned brand 16FisKer
+HIT 08093.jpg is assigned brand 16Ferrari
 
-HIT 08094.jpg is assigned brand 10Chrysler
+HIT 08094.jpg is assigned brand 10Chevrolet
 
-HIT 08095.jpg is assigned brand 7Buick
+HIT 08095.jpg is assigned brand 7Bugatti
 
-HIT 08096.jpg is assigned brand 3Audi
+HIT 08096.jpg is assigned brand 3Astom Martin
 
-HIT 08097.jpg is assigned brand 10Chrysler
+HIT 08097.jpg is assigned brand 10Chevrolet
 
-HIT 08098.jpg is assigned brand 44Tesla
+HIT 08098.jpg is assigned brand 44Suzuki
 
-ERROR 08099.jpg is assigned brand 10Chrysler
+ERROR 08099.jpg is assigned brand 10Chevrolet
   True brand is 18Ford
 
-HIT 08100.jpg is assigned brand 11Daewo
+HIT 08100.jpg is assigned brand 11Chrysler
 
-HIT 08101.jpg is assigned brand 37Plymouth
+HIT 08101.jpg is assigned brand 37Nissan
 
-ERROR 08102.jpg is assigned brand 44Tesla
+ERROR 08102.jpg is assigned brand 44Suzuki
   True brand is 35Mercedes-Benz
 
-HIT 08103.jpg is assigned brand 46Volkswagen
+HIT 08103.jpg is assigned brand 46Toyota
 
-HIT 08104.jpg is assigned brand 46Volkswagen
+HIT 08104.jpg is assigned brand 46Toyota
 
-ERROR 08105.jpg is assigned brand 10Chrysler
+ERROR 08105.jpg is assigned brand 10Chevrolet
   True brand is 13Dodge
 
-HIT 08106.jpg is assigned brand 28Land Rover
+HIT 08106.jpg is assigned brand 28Lamborghini
 
-HIT 08107.jpg is assigned brand 11Daewo
+HIT 08107.jpg is assigned brand 11Chrysler
 
-HIT 08108.jpg is assigned brand 10Chrysler
+HIT 08108.jpg is assigned brand 10Chevrolet
 
-HIT 08109.jpg is assigned brand 29Lincoln Town
+HIT 08109.jpg is assigned brand 29Land Rover
 
-HIT 08110.jpg is assigned brand 46Volkswagen
+HIT 08110.jpg is assigned brand 46Toyota
 
-HIT 08111.jpg is assigned brand 37Plymouth
+HIT 08111.jpg is assigned brand 37Nissan
 
-HIT 08112.jpg is assigned brand 13Eagle
+HIT 08112.jpg is assigned brand 13Dodge
 
-HIT 08113.jpg is assigned brand 18GMC
+HIT 08113.jpg is assigned brand 18Ford
 
-ERROR 08114.jpg is assigned brand 13Eagle
+ERROR 08114.jpg is assigned brand 13Dodge
   True brand is 35Mercedes-Benz
 
-HIT 08115.jpg is assigned brand 34Mercedes-Benz
+HIT 08115.jpg is assigned brand 34McLaren
 
-HIT 08116.jpg is assigned brand 35Mitsubishi
+HIT 08116.jpg is assigned brand 35Mercedes-Benz
 
-HIT 08117.jpg is assigned brand 10Chrysler
+HIT 08117.jpg is assigned brand 10Chevrolet
 
-HIT 08118.jpg is assigned brand 5Bentley
+HIT 08118.jpg is assigned brand 5BMW
 
-ERROR 08119.jpg is assigned brand 9Chevrolet
+ERROR 08119.jpg is assigned brand 9Cadillac
   True brand is 10Chevrolet
 
-HIT 08120.jpg is assigned brand 22Hyundai
+HIT 08120.jpg is assigned brand 22Honda
 
-ERROR 08121.jpg is assigned brand 9Chevrolet
+ERROR 08121.jpg is assigned brand 9Cadillac
   True brand is 28Lamborghini
 
-HIT 08122.jpg is assigned brand 9Chevrolet
+HIT 08122.jpg is assigned brand 9Cadillac
 
-HIT 08123.jpg is assigned brand 42Spyker
+HIT 08123.jpg is assigned brand 42Scion
 
-HIT 08124.jpg is assigned brand 6Bugatti
+HIT 08124.jpg is assigned brand 6Bentley
 
-HIT 08125.jpg is assigned brand 10Chrysler
+HIT 08125.jpg is assigned brand 10Chevrolet
 
-ERROR 08126.jpg is assigned brand 23Infiniti
+ERROR 08126.jpg is assigned brand 23Hyundai
   True brand is 18Ford
 
-HIT 08127.jpg is assigned brand 2Astom Martin
+HIT 08127.jpg is assigned brand 2Acura
 
-HIT 08128.jpg is assigned brand 18GMC
+HIT 08128.jpg is assigned brand 18Ford
 
-HIT 08129.jpg is assigned brand 7Buick
+HIT 08129.jpg is assigned brand 7Bugatti
 
-HIT 08130.jpg is assigned brand 7Buick
+HIT 08130.jpg is assigned brand 7Bugatti
 
-HIT 08131.jpg is assigned brand 19Geo
+HIT 08131.jpg is assigned brand 19GMC
 
-ERROR 08132.jpg is assigned brand 10Chrysler
+ERROR 08132.jpg is assigned brand 10Chevrolet
   True brand is 28Lamborghini
 
-HIT 08133.jpg is assigned brand 2Astom Martin
+HIT 08133.jpg is assigned brand 2Acura
 
-HIT 08134.jpg is assigned brand 21Honda
+HIT 08134.jpg is assigned brand 21HUMMER
 
 
 Total hits = 109
