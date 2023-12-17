@@ -224,8 +224,8 @@ with open( "BrandsResults.txt" ,"w") as  w:
         
         
         IndexCarBrandTrue=Y_test[i]
-        NameCarBrandPredict=TabCarBrand[IndexCarBrandPredict]
-        NameCarBrandTrue=TabCarBrand[IndexCarBrandTrue]
+        NameCarBrandPredict=TabCarBrand[IndexCarBrandPredict-1]
+        NameCarBrandTrue=TabCarBrand[IndexCarBrandTrue-1]
         if Y_test[i]!=IndexCarBrandPredict:
             TotalFailures=TotalFailures + 1
             print("ERROR " + imageName_test[i]+ " is assigned brand " + str(IndexCarBrandPredict)
